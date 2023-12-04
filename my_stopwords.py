@@ -23,5 +23,7 @@ custom_stopwords = [
     'kita',
     'si',
     'nag',
-    'mag'
+    'mag',
+    'yan',
+    'iyan'
 ]

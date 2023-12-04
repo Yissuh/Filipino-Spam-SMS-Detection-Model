@@ -14,5 +14,14 @@ custom_stopwords = [
     'yon',
     'iyon',
     'dyan',
-    'yo'
+    'yo',
+    'sir',
+    'mam',
+    'hi',
+    'hello',
+    'pwede',
+    'kita',
+    'si',
+    'nag',
+    'mag'
 ]

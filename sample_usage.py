@@ -23,7 +23,7 @@ probabilities = loaded_model.predict_proba(test_text_transformed)
 spam_probability = probabilities[0, 1]
 
 # Set a threshold from Precision-Recall Curve
-threshold = 0.6479933191798792
+threshold = 0.6568449587313073
 
 # Check the prediction based on the threshold
 print(test_text)

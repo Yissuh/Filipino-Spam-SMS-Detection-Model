@@ -91,7 +91,9 @@ dictionary = {
     'w': 'with',
     "you're": 'you are',
     "you'll": 'you will',
-    'acct': 'account'
+    'acct': 'account',
+    'app': 'application',
+    'ref': 'reference'
 }
 
 

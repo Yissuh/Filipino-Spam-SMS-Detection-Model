@@ -5,7 +5,8 @@ import numpy as np
 loaded_model = joblib.load('spam_model.joblib')
 
 # Example text to test
-test_text = "Experience BER Month delight! Enjoy free Golden Eggs, a Php 7,777 deposit bonus, and a Php20 app download bonus at http://JackpotCity.vegas"
+#test_text = "Experience BER Month delight! Enjoy free Golden Eggs, a Php 7,777 deposit bonus, and a Php20 app download bonus at http://JackpotCity.vegas"
+test_text = "Opss, Sunday pa lang bukas ahh! May time ka pa for your errands. Move It mo na yan! Use code WEEKENDNAMI para sa 25% OFF on two rides! Valid on Dec 10 only! To unsubscribe, send NO to 22564722"
 
 
 # Load the original vectorizer used during training
